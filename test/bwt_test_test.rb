@@ -1,4 +1,4 @@
-require 'test_helper'
+require 'minitest/autorun'
 require_relative "../lib/bwt_test"
 
 describe BwtTest do

@@ -1,4 +1,4 @@
-require "bwt_test/version"
+require_relative "bwt_test/version"
 
 module BwtTest
   def encode(str)
